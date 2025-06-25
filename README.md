@@ -1,12 +1,52 @@
-# React + Vite
+# 🩺 Phudu Doctor Appointment System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Doctor Appointment Booking System built using **HTML**, **CSS**, and **JavaScript**, allowing users to schedule appointments with available doctors in a clean, interactive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Live Site](https://your-live-link.com)  
+👉 [Repository](https://github.com/sazidur123/phudu-doctor-appointment-system)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Phudu Appointment Preview 1](https://github.com/sazidur123/phudu-doctor-appointment-system/blob/main/public/screenshot1.png)  
+![Phudu Appointment Preview 2](https://github.com/sazidur123/phudu-doctor-appointment-system/blob/main/public/screenshot2.png)
+
+---
+
+## 🚀 Technologies Used
+
+- HTML5  
+- CSS3 (Flexbox, Grid)  
+- JavaScript (Vanilla JS DOM manipulation)  
+
+---
+
+## ✨ Features
+
+- Responsive appointment booking form  
+- Doctor listing with specialization and timing  
+- Real-time appointment validation  
+- Simple and clean UI  
+- Mobile-friendly layout  
+
+---
+
+## 📦 Dependencies
+
+> No external libraries or frameworks used — 100% vanilla HTML, CSS, and JavaScript.  
+> *(Add here if you later use libraries like FontAwesome, AOS, etc.)*
+
+---
+
+## 🛠️ Getting Started
+
+### 📁 Clone the repository
+
+```bash
+git clone https://github.com/sazidur123/phudu-doctor-appointment-system.git
+cd phudu-doctor-appointment-system
