@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@tailwind utilities;
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafb;
+}
